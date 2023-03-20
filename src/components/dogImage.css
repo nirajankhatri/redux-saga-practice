@@ -1,0 +1,10 @@
+.dog_image_container {
+    width: 50%;
+    height: 50%;
+    margin: 10px auto;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
